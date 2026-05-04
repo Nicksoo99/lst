@@ -1,9 +1,7 @@
 import { Phone, Mail, MapPin, Instagram, Facebook, Award, Shield, Truck, Users, CheckCircle, Factory } from 'lucide-react';
 import { motion } from 'motion/react';
 import logo from '../imports/images.jpg';
-import stoneCoatedTile from '../imports/tile-profile-phone.png';
 import roofingAccessories from '../imports/box-profile-phone.png';
-import roofingScrews from '../imports/box-profile-phone.png';
 import tileProfileSheet from '../imports/tile-profile-phone.png';
 import customerTestimonial from '../imports/tile-profile-phone.png';
 import decraTiles from '../imports/tile-profile-phone.png';
