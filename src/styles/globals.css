@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* KEEP_IN_SYNC(fullscreen/resources/figmake/shadcn/globals.css) */
 
 :root {
