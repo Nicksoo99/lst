@@ -1,12 +1,12 @@
 import { Phone, Mail, MapPin, Instagram, Facebook, Award, Shield, Truck, Users, CheckCircle, Factory } from 'lucide-react';
 import { motion } from 'motion/react';
-import logo from '../imports/WhatsApp_Image_2026-04-26_at_19.15.00.jpeg';
-import stoneCoatedTile from '../imports/WhatsApp_Image_2026-04-28_at_14.17.49.jpeg';
-import roofingAccessories from '../imports/WhatsApp_Image_2026-04-28_at_14.23.01.jpeg';
-import roofingScrews from '../imports/WhatsApp_Image_2026-04-28_at_14.20.23_(1).jpeg';
+import logo from '../imports/images.jpg';
+import stoneCoatedTile from '../imports/tile-profile-phone.png';
+import roofingAccessories from '../imports/box-profile-phone.png';
+import roofingScrews from '../imports/box-profile-phone.png';
 import tileProfileSheet from '../imports/tile-profile-phone.png';
-import customerTestimonial from '../imports/626775389_797195566725870_4826691778013097524_n.jpg';
-import decraTiles from '../imports/641697758_813456061766487_4970874504655035091_n.jpg';
+import customerTestimonial from '../imports/tile-profile-phone.png';
+import decraTiles from '../imports/tile-profile-phone.png';
 import boxProfileSheets from '../imports/box-profile-phone.png';
 import { ProductDropdown } from './components/ProductDropdown';
 
